@@ -1,4 +1,9 @@
 train.zip
 test1.zip
 .ipynb_checkpoints
-data
+data/train
+data/validation
+data.zip
+*.h5
+*.npy
+models
